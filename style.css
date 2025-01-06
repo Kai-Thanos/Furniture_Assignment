@@ -138,6 +138,7 @@ ul {
     justify-content: center;
     align-items: center;
     position: relative;
+    background-color: rgb(255, 0, 13);
 }
 
 .menu ul li {
@@ -340,7 +341,6 @@ ul {
     background-color: #ffffff;
 }
 
-.slide-container .dot-slide ul li
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {}
 
