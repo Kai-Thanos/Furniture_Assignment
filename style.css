@@ -138,7 +138,6 @@ ul {
     justify-content: center;
     align-items: center;
     position: relative;
-    background-color: rgb(255, 0, 13);
 }
 
 .menu ul li {
@@ -279,7 +278,7 @@ ul {
 }
 
 .slide-container .item-container .item img {
-    height: 459px;
+    height: 400px;
     animation: img-animate 4s linear infinite;
 }
 
